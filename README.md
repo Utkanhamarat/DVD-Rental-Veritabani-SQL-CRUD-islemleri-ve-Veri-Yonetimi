@@ -1,0 +1,1 @@
+# DVD-Rental-Veritabani-SQL-CRUD-islemleri-ve-Veri-Yonetimi
